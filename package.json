@@ -1,0 +1,5 @@
+{
+  "name": "Generador de etiquetas para bodegas Davita",
+  "description": "Esta aplicación ayudará a generar etiquetado para empaques terciarios e identificar lotes, cantidades de bultos y salida por FEFO.",
+  "requestFramePermissions": []
+}
